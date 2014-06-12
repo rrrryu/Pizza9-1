@@ -37,7 +37,7 @@ import javax.servlet.http.*;
 	        } finally {
 	            manager.close();
 	        }
-	        resp.sendRedirect("/check.html");
+	        resp.sendRedirect("/kakunin.html");
 	    }
 	}
 	
